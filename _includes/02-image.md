@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of chelsea](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FChelseaFC%2F&psig=AOvVaw3AOuCeeEhjeNp4PqKHZwok&ust=1612947419732000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC698G33O4CFQAAAAAdAAAAABAO)
